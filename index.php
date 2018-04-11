@@ -302,7 +302,7 @@
                 <div class="single-count">
                     <i class="fa fa-money"></i>
                     <h2 class="count">2,000</h2>
-                    <h2>Receieve payemnt<h2>
+                    <h2>Payemnt<h2>
                 </div>
                 <!--/ End Single Count -->
             </div>
