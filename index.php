@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Title Tag-->
-    <title>CBS &#8214; A Recycling Web Application</title>
+    <title>CBS &#8214; A Container Booking System</title>
 
     <!-- FavIcon -->
     <link rel="icon" type="image/png" href="img/images1.png">
